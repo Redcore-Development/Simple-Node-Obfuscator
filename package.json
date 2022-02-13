@@ -1,7 +1,7 @@
 {
   "name": "simple-node-obfuscator",
-  "version": "0.0.1-beta",
-  "main": "index.js",
+  "version": "0.0.2-beta",
+  "main": "compiler.js",
   "repository": "https://github.com/Redcore-Development/Simple-Node-Obfuscator",
   "author": "Sylvester Stephenson",
   "license": "ISC",
