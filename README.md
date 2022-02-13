@@ -9,10 +9,12 @@ A simple wrapper around the javascript-obfuscator npm pacakge that will include 
 Some kind of magical obfuscator package built from scratch. 
 The main goal for this module is to provide the same file structre for your obfuscated code.
 
+```
 source -> src/server/server.js
 compiled -> dist/server/server.js
 
 This also works for mutiple file layers such as src/**/**/**/**/*.js.
+```
 
 ## Example:
 
