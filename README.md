@@ -13,7 +13,7 @@ The main goal for this module is to provide the same file structre for your obfu
 source -> src/server/server.js
 compiled -> dist/server/server.js
 
-This also works for mutiple file layers such as src/**/**/**/**/*.js.
+This also works for multiple file layers such as src/**/**/**/**/*.js.
 ```
 
 ## Example:
