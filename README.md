@@ -19,7 +19,7 @@ This also works for multiple file layers such as src/**/**/**/**/*.js.
 ## Example:
 
 ```js
-const Compile = require("./compiler");
+const Compile = require("simple-node-obfuscator");
 const path = require("path");
 
 const options = {
