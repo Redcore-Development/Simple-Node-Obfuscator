@@ -2,7 +2,7 @@
 
 ## What it is:
 
-A simple wrapper around the javascript-obfuscator npm pacakge that will include and produce complete code file structre.
+A simple wrapper around the javascript-obfuscator npm package that will include and produce a complete code file structure.
 
 ## What it is not:
 
